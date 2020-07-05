@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="rock_paper_scissors">Rock Paper Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="done">Reset</string>
+    <string name="press_any_button_to_start">Press Any Button To Start</string>
+    <string name="press_done_to_reset">Press Done To Reset</string>
+    <string name="user_0">User : 0</string>
+    <string name="comp_0">Comp : 0</string>
+    <string name="nikhil_gajam">Nikhil Gajam</string>
+    <string name="rock_image">Rock Image</string>
+    <string name="paper_image">Paper Image</string>
+    <string name="scissors_image">Scissors Image</string>
+    <string name="icon_image">Icon Image</string>
+    <string name="action_paper">Paper Covered The Rock</string>
+    <string name="action_rock">Rock Smashed The Scissors</string>
+    <string name="action_scissors">Scissors Cut The Paper</string>
+</resources>
